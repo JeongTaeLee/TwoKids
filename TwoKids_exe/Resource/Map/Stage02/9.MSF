@@ -1,0 +1,323 @@
+20 10
+Tile Eyetile.png 0 0
+Collider 0 0 64 64
+Tile HellTile2.png 64 0
+Collider 64 0 64 64
+Tile HellTile2.png 128 0
+Collider 128 0 64 64
+Tile HellTile2.png 192 0
+Collider 192 0 64 64
+Tile HellTile2.png 256 0
+Collider 256 0 64 64
+Tile HellTile2.png 320 0
+Collider 320 0 64 64
+Tile HellTile2.png 384 0
+Collider 384 0 64 64
+Tile HellTile2.png 448 0
+Collider 448 0 64 64
+Tile HellTile2.png 512 0
+Collider 512 0 64 64
+Tile HellTile2.png 576 0
+Collider 576 0 64 64
+Tile HellTile2.png 640 0
+Collider 640 0 64 64
+Tile HellTile2.png 704 0
+Collider 704 0 64 64
+Tile HellTile2.png 768 0
+Collider 768 0 64 64
+Tile HellTile2.png 832 0
+Collider 832 0 64 64
+Tile HellTile2.png 896 0
+Collider 896 0 64 64
+Tile HellTile2.png 960 0
+Collider 960 0 64 64
+Tile HellTile2.png 1024 0
+Collider 1024 0 64 64
+Tile HellTile2.png 1088 0
+Collider 1088 0 64 64
+Tile HellTile2.png 1152 0
+Collider 1152 0 64 64
+Tile Eyetile.png 1216 0
+Collider 1216 0 64 64
+Tile HellTile2.png 0 64
+Collider 0 64 64 64
+Tile Eyetile.png 64 64
+Collider 64 64 64 64
+Tile HellTile.png 128 64
+Tile HellTile.png 192 64
+Tile HellTile.png 256 64
+Tile HellTile.png 320 64
+Tile HellTile.png 384 64
+Tile HellTile.png 448 64
+Tile HellTile.png 512 64
+Tile HellTile.png 576 64
+Tile HellTile.png 640 64
+Tile HellTile.png 704 64
+Tile HellTile.png 768 64
+Tile HellTile.png 832 64
+Tile HellTile.png 896 64
+Tile HellTile.png 960 64
+Tile HellTile.png 1024 64
+Tile HellTile.png 1088 64
+Tile HellTile.png 1152 64
+Tile Eyetile.png 1152 64
+Collider 1152 64 64 64
+Tile HellTile2.png 1216 64
+Collider 1216 64 64 64
+Tile HellTile2.png 0 128
+Collider 0 128 64 64
+Tile HellTile.png 64 128
+Tile HellTile.png 128 128
+Tile Eyetile_light.png 128 128
+Collider 128 128 64 64
+Tile HellTile.png 192 128
+Tile Smallrock.png 192 128
+Tile HellTile.png 256 128
+Tile Smallrock.png 256 128
+Tile HellTile.png 320 128
+Tile Smallrock.png 320 128
+Tile HellTile.png 384 128
+Tile Smallrock.png 384 128
+Tile HellTile.png 448 128
+Tile Smallrock.png 448 128
+Tile HellTile.png 512 128
+Tile HellTile.png 576 128
+Tile Smallrock.png 576 128
+Tile HellTile.png 640 128
+Tile Smallrock.png 640 128
+Tile HellTile.png 704 128
+Tile Smallrock.png 704 128
+Tile HellTile.png 768 128
+Tile Smallrock.png 768 128
+Tile HellTile.png 832 128
+Tile Smallrock.png 832 128
+Tile HellTile.png 896 128
+Tile HellTile.png 960 128
+Tile Smallrock.png 960 128
+Tile HellTile.png 1024 128
+Tile Smallrock.png 1024 128
+Tile HellTile.png 1088 128
+Tile Smallrock.png 1088 128
+Tile Eyetile_light.png 1088 128
+Collider 1088 128 64 64
+Tile HellTile.png 1152 128
+Tile HellTile2.png 1216 128
+Collider 1216 128 64 64
+Tile HellTile2.png 0 192
+Collider 0 192 64 64
+Tile HellTile.png 64 192
+Tile HellTile.png 128 192
+Tile HellTile.png 192 192
+Tile Smallrock.png 192 192
+Tile HellTile.png 256 192
+Tile HellTile.png 320 192
+Tile HellTile.png 384 192
+Tile HellTile.png 448 192
+Tile HellTile.png 512 192
+Tile HellTile.png 576 192
+Tile Smallrock.png 576 192
+Tile HellTile.png 640 192
+Tile HellTile.png 704 192
+Tile HellTile.png 768 192
+Tile HellTile.png 832 192
+Tile Smallrock.png 832 192
+Tile HellTile.png 896 192
+Tile HellTile.png 960 192
+Tile Smallrock.png 960 192
+Tile HellTile.png 1024 192
+Tile HellTile.png 1088 192
+Tile HellTile.png 1152 192
+Tile Smallrock.png 1152 192
+Tile HellTile2.png 1216 192
+Collider 1216 192 64 64
+Tile HellTile2.png 0 256
+Collider 0 256 64 64
+Tile HellTile.png 64 256
+Tile HellTile.png 128 256
+Tile HellTile.png 192 256
+Tile Smallrock.png 192 256
+Tile HellTile.png 256 256
+Tile HellTile.png 320 256
+Tile Smallrock.png 320 256
+Tile HellTile.png 384 256
+Tile Smallrock.png 384 256
+Tile HellTile.png 448 256
+Tile Smallrock.png 448 256
+Tile HellTile.png 512 256
+Tile HellTile.png 576 256
+Tile Smallrock.png 576 256
+Tile HellTile.png 640 256
+Monster Finalboss_front01.png 640 256
+Tile HellTile.png 704 256
+Tile HellTile.png 768 256
+Tile HellTile.png 832 256
+Tile Smallrock.png 832 256
+Tile HellTile.png 896 256
+Tile HellTile.png 960 256
+Tile Smallrock.png 960 256
+Tile HellTile.png 1024 256
+Tile HellTile.png 1088 256
+Tile HellTile.png 1152 256
+Tile Smallrock.png 1152 256
+Tile HellTile2.png 1216 256
+Collider 1216 256 64 64
+Tile HellTile2.png 0 320
+Collider 0 320 64 64
+Tile HellTile.png 64 320
+Tile HellTile.png 128 320
+Tile HellTile.png 192 320
+Tile Smallrock.png 192 320
+Tile HellTile.png 256 320
+Tile HellTile.png 320 320
+Tile HellTile.png 384 320
+Tile HellTile.png 448 320
+Tile Smallrock.png 448 320
+Tile HellTile.png 512 320
+Tile HellTile.png 576 320
+Tile Smallrock.png 576 320
+Tile HellTile.png 640 320
+Tile HellTile.png 704 320
+Tile HellTile.png 768 320
+Tile HellTile.png 832 320
+Tile Smallrock.png 832 320
+Tile HellTile.png 896 320
+Tile HellTile.png 960 320
+Tile Smallrock.png 960 320
+Tile HellTile.png 1024 320
+Tile HellTile.png 1088 320
+Tile HellTile.png 1152 320
+Tile Smallrock.png 1152 320
+Tile HellTile2.png 1216 320
+Collider 1216 320 64 64
+Tile HellTile2.png 0 384
+Collider 0 384 64 64
+Tile HellTile.png 64 384
+Tile HellTile.png 128 384
+Tile HellTile.png 192 384
+Tile Smallrock.png 192 384
+Tile HellTile.png 256 384
+Tile HellTile.png 320 384
+Tile HellTile.png 384 384
+Tile HellTile.png 448 384
+Tile Smallrock.png 448 384
+Tile HellTile.png 512 384
+Tile HellTile.png 576 384
+Tile Smallrock.png 576 384
+Tile HellTile.png 640 384
+Tile HellTile.png 704 384
+Tile HellTile.png 768 384
+Tile HellTile.png 832 384
+Tile Smallrock.png 832 384
+Tile HellTile.png 896 384
+Tile HellTile.png 960 384
+Tile Smallrock.png 960 384
+Tile HellTile.png 1024 384
+Tile HellTile.png 1088 384
+Tile HellTile.png 1152 384
+Tile Smallrock.png 1152 384
+Tile HellTile2.png 1216 384
+Collider 1216 384 64 64
+Tile HellTile2.png 0 448
+Collider 0 448 64 64
+Tile HellTile.png 64 448
+Tile HellTile.png 128 448
+Tile Eyetile_light.png 128 448
+Collider 128 448 64 64
+Tile HellTile.png 192 448
+Tile Smallrock.png 192 448
+Tile HellTile.png 256 448
+Tile Smallrock.png 256 448
+Tile HellTile.png 320 448
+Tile Smallrock.png 320 448
+Tile HellTile.png 384 448
+Tile Smallrock.png 384 448
+Tile HellTile.png 448 448
+Tile Smallrock.png 448 448
+Tile HellTile.png 512 448
+Tile HellTile.png 576 448
+Tile Smallrock.png 576 448
+Tile HellTile.png 640 448
+Tile Smallrock.png 640 448
+Tile HellTile.png 704 448
+Tile Smallrock.png 704 448
+Tile HellTile.png 768 448
+Tile Smallrock.png 768 448
+Tile HellTile.png 832 448
+Tile Smallrock.png 832 448
+Tile HellTile.png 896 448
+Tile HellTile.png 960 448
+Tile Smallrock.png 960 448
+Tile HellTile.png 1024 448
+Tile Smallrock.png 1024 448
+Tile HellTile.png 1088 448
+Tile Smallrock.png 1088 448
+Tile Eyetile_light.png 1088 448
+Collider 1088 448 64 64
+Tile HellTile.png 1152 448
+Tile HellTile2.png 1216 448
+Collider 1216 448 64 64
+Tile HellTile2.png 0 512
+Collider 0 512 64 64
+Tile Eyetile.png 64 512
+Collider 64 512 64 64
+Tile HellTile.png 128 512
+Tile HellTile.png 192 512
+Tile HellTile.png 256 512
+Tile HellTile.png 320 512
+Tile HellTile.png 384 512
+Tile HellTile.png 448 512
+Tile HellTile.png 512 512
+Tile HellTile.png 576 512
+Tile HellTile.png 640 512
+Tile HellTile.png 704 512
+Tile HellTile.png 768 512
+Tile HellTile.png 832 512
+Tile HellTile.png 896 512
+Tile HellTile.png 960 512
+Tile HellTile.png 1024 512
+Tile HellTile.png 1088 512
+Tile HellTile.png 1152 512
+Tile Eyetile.png 1152 512
+Collider 1152 512 64 64
+Tile HellTile2.png 1216 512
+Collider 1216 512 64 64
+Tile Eyetile.png 0 576
+Collider 0 576 64 64
+Tile HellTile2.png 64 576
+Collider 64 576 64 64
+Tile HellTile2.png 128 576
+Collider 128 576 64 64
+Tile HellTile2.png 192 576
+Collider 192 576 64 64
+Tile HellTile2.png 256 576
+Collider 256 576 64 64
+Tile HellTile2.png 320 576
+Collider 320 576 64 64
+Tile HellTile2.png 384 576
+Collider 384 576 64 64
+Tile HellTile2.png 448 576
+Collider 448 576 64 64
+Tile HellTile2.png 512 576
+Collider 512 576 64 64
+Tile HellTile2.png 576 576
+Collider 576 576 64 64
+Tile HellTile2.png 640 576
+Collider 640 576 64 64
+Tile HellTile2.png 704 576
+Collider 704 576 64 64
+Tile HellTile2.png 768 576
+Collider 768 576 64 64
+Tile HellTile2.png 832 576
+Collider 832 576 64 64
+Tile HellTile2.png 896 576
+Collider 896 576 64 64
+Tile HellTile2.png 960 576
+Collider 960 576 64 64
+Tile HellTile2.png 1024 576
+Collider 1024 576 64 64
+Tile HellTile2.png 1088 576
+Collider 1088 576 64 64
+Tile HellTile2.png 1152 576
+Collider 1152 576 64 64
+Tile Eyetile.png 1216 576
+Collider 1216 576 64 64

@@ -1,0 +1,4 @@
+{X=64,Y=64}/
+tile,tile_01.png,{X=320,Y=128}/
+tile,tile_01.png,{X=384,Y=128}/
+tile,tile_01.png,{X=448,Y=128}/

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="cMainGame">
+      <UniqueIdentifier>{e95b8d7d-2c5e-4059-961c-52c9a6beb983}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{79b37590-c0a5-4498-8237-5482b8b97ca8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cSceneManager">
+      <UniqueIdentifier>{2e808842-7039-404a-bbf2-6ad79f1bdab8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{f6b986c7-607d-4c9e-a260-e021b040c9b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\cScene">
+      <UniqueIdentifier>{43085839-9dbd-4a94-922b-94fc924a4beb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\cIngame">
+      <UniqueIdentifier>{b9cdb281-a535-4042-b222-03ed00e6da10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{36714f9f-3540-403a-bb1e-3389fd0a6ecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cComonent">
+      <UniqueIdentifier>{2c710da6-d4bf-49eb-b8d5-4e12a2e7fcf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cTransform">
+      <UniqueIdentifier>{20def2e8-3aae-4850-ba79-7904ec7ca00b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cGameObject">
+      <UniqueIdentifier>{ead5047e-26ea-44ea-b0c2-e56e5ab2834b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cSprteRenderer">
+      <UniqueIdentifier>{84b4af1b-023a-468d-bbd8-dcb2f969ad69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cTextureManager">
+      <UniqueIdentifier>{9971580a-65bd-48e0-b198-d0c7f27f7c35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cAnimater">
+      <UniqueIdentifier>{2bbbd22b-c4b5-4d46-98ab-f58d917c36f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cObjectManager">
+      <UniqueIdentifier>{cf452a93-afe3-468f-a2f0-20e13c797fd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent">
+      <UniqueIdentifier>{2b8b296d-811b-48ae-bf6a-8c81f4a27e19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cPlayer">
+      <UniqueIdentifier>{d1b57dad-b621-470d-82de-0f5440551922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cPlayer\cPlayerComponent">
+      <UniqueIdentifier>{a1eb4e04-4600-4897-8796-401d9330d52f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cPlayer\cPlayerHead">
+      <UniqueIdentifier>{17eaa183-228f-42fa-9cae-2b12509a0bd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cPlayer\cPlayerBody">
+      <UniqueIdentifier>{2347ff77-c379-46f8-b3b0-092178094b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cInputManager">
+      <UniqueIdentifier>{b7b754af-5830-4131-8962-9845f7bd6b64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cCollider2D">
+      <UniqueIdentifier>{5b887171-71ab-41e7-9022-572779be300e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cCameraManager">
+      <UniqueIdentifier>{256cc4b1-c777-4f51-b336-77eb44924732}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\TestObstacle">
+      <UniqueIdentifier>{89a9379e-9dc1-4388-b363-1ea0ea4c5501}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cPlayer\cPlayerShadow">
+      <UniqueIdentifier>{691db90e-5a4d-4bb7-960b-2106ba5023a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\cMainMenu">
+      <UniqueIdentifier>{f747cd14-f54e-410a-a1d3-cb3951852d0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cRigidBody">
+      <UniqueIdentifier>{213afadb-5e14-4501-a6f0-d77f3d58e4e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cPlayer\cPlayerBullet">
+      <UniqueIdentifier>{8e3ec175-0a46-490a-b9e6-4055cb242329}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cExplosions">
+      <UniqueIdentifier>{5942e5d1-ff94-410e-bb2f-7df3e8a5eb05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cCollisionManager">
+      <UniqueIdentifier>{b095d985-8a7b-4e6e-bc34-beb7abe66d71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\cButton">
+      <UniqueIdentifier>{386b7f35-cbc6-4b37-a3f2-162074b2f5ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cMapManager">
+      <UniqueIdentifier>{76d5267d-ee62-43bf-afbd-d614b49401aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Map">
+      <UniqueIdentifier>{61c0e73b-2fa7-4b70-9f41-4f213cb1587c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Map\cMap">
+      <UniqueIdentifier>{baa23116-1293-413c-a7a1-856d23e897d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Map\cTile">
+      <UniqueIdentifier>{c6ccb6ae-3f64-4e6f-9113-90dde1bb9bd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Door">
+      <UniqueIdentifier>{218a458f-1381-4673-a5f1-c3ab4d3ec70b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster">
+      <UniqueIdentifier>{fa585517-44b7-4a73-9cf3-70fd3f780a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\UI">
+      <UniqueIdentifier>{efdb8731-e6d1-48ed-a4b8-872ac26da9e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\UI\cHpComponent">
+      <UniqueIdentifier>{f3f3546d-98e5-48da-b543-f8d09b94f545}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\UI\cHpUI">
+      <UniqueIdentifier>{edcdac60-672f-4374-8b54-2c8b40e9de5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\PopUpScreen">
+      <UniqueIdentifier>{1fd69455-ee34-4434-978a-729901d9bbae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\cIntroScene">
+      <UniqueIdentifier>{fa5f5078-ff12-4bae-ae5e-83122f933d4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\cSoundManager">
+      <UniqueIdentifier>{7902e23f-5ae5-499c-a7dd-17134ac9c32a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Map\Minimap">
+      <UniqueIdentifier>{2ee0fd99-9cac-41d3-abf0-42f6d01e5889}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Map\Minimap\cMiniMap">
+      <UniqueIdentifier>{16a2e50b-7ba0-4ff5-9d46-60a7999a538e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Map\Minimap\cMiniMapAdmin">
+      <UniqueIdentifier>{fd903573-6128-4603-80e6-719208b54684}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cMonsterComponent">
+      <UniqueIdentifier>{70f04523-fcc6-4555-b932-fc4882e4cd5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cBee">
+      <UniqueIdentifier>{ee1e20f5-3ea6-4b68-ba03-b0b8c46c8492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cBear">
+      <UniqueIdentifier>{52c9010b-fe25-4908-abe2-369471e930ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cLeaf">
+      <UniqueIdentifier>{9aa6dc73-fed9-42e5-adf7-d39a9eca7ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cSlime">
+      <UniqueIdentifier>{6217fbce-a3a4-442d-9efd-297bcac3326d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cMonsterBullet">
+      <UniqueIdentifier>{cf7197eb-d492-42f3-b533-e8cd896e88d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cMonsterDeath">
+      <UniqueIdentifier>{c134426d-1ba0-495d-8346-c07b2fe5bcac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\cStageChange">
+      <UniqueIdentifier>{16505507-ba26-4963-81b8-fe80155ca5a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\cLoseCene">
+      <UniqueIdentifier>{a1137f41-5fc2-41c4-94dc-9a23cfc5c6d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cDog">
+      <UniqueIdentifier>{3171b2ed-3284-477a-8fa1-b3651058370c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Item">
+      <UniqueIdentifier>{fc9dfd51-69f4-45de-a784-ed7de4523210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cGhost">
+      <UniqueIdentifier>{55bad73f-41fd-40e2-8a8c-79e171e88141}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UserComponent\Monster\cFinalboss">
+      <UniqueIdentifier>{885daaab-157d-464c-8f5c-3170b50faf5a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TileMapGame.cpp" />
+    <ClCompile Include="cMainGame.cpp">
+      <Filter>cMainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="cSceneManager.cpp">
+      <Filter>Manager\cSceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene.cpp">
+      <Filter>Scene\cScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cIngame.cpp">
+      <Filter>Scene\cIngame</Filter>
+    </ClCompile>
+    <ClCompile Include="cGameObject.cpp">
+      <Filter>Core\cGameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="cComponent.cpp">
+      <Filter>Core\cComonent</Filter>
+    </ClCompile>
+    <ClCompile Include="cTransform.cpp">
+      <Filter>Core\cTransform</Filter>
+    </ClCompile>
+    <ClCompile Include="cSpriteRenderer.cpp">
+      <Filter>Core\cSprteRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="cTextureManager.cpp">
+      <Filter>Manager\cTextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cAnimater.cpp">
+      <Filter>Core\cAnimater</Filter>
+    </ClCompile>
+    <ClCompile Include="cObjectManager.cpp">
+      <Filter>Manager\cObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerComponent.cpp">
+      <Filter>UserComponent\cPlayer\cPlayerComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerHead.cpp">
+      <Filter>UserComponent\cPlayer\cPlayerHead</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerBody.cpp">
+      <Filter>UserComponent\cPlayer\cPlayerBody</Filter>
+    </ClCompile>
+    <ClCompile Include="cInputManager.cpp">
+      <Filter>Manager\cInputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cCollider2D.cpp">
+      <Filter>Core\cCollider2D</Filter>
+    </ClCompile>
+    <ClCompile Include="cCameraManager.cpp">
+      <Filter>Manager\cCameraManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>UserComponent\TestObstacle</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerShadow.cpp">
+      <Filter>UserComponent\cPlayer\cPlayerShadow</Filter>
+    </ClCompile>
+    <ClCompile Include="cMainMenu.cpp">
+      <Filter>Scene\cMainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="cRigidBody.cpp">
+      <Filter>Core\cRigidBody</Filter>
+    </ClCompile>
+    <ClCompile Include="cBulletBase.cpp">
+      <Filter>UserComponent\cPlayer\cPlayerBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="cExplosions.cpp">
+      <Filter>UserComponent\cExplosions</Filter>
+    </ClCompile>
+    <ClCompile Include="cCollisionManager.cpp">
+      <Filter>Manager\cCollisionManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Core\cButton</Filter>
+    </ClCompile>
+    <ClCompile Include="cMapManager.cpp">
+      <Filter>Manager\cMapManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cMap.cpp">
+      <Filter>UserComponent\Map\cMap</Filter>
+    </ClCompile>
+    <ClCompile Include="cTile.cpp">
+      <Filter>UserComponent\Map\cTile</Filter>
+    </ClCompile>
+    <ClCompile Include="cDoor.cpp">
+      <Filter>UserComponent\Door</Filter>
+    </ClCompile>
+    <ClCompile Include="cHpComponent.cpp">
+      <Filter>UserComponent\UI\cHpComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="cHpUI.cpp">
+      <Filter>UserComponent\UI\cHpUI</Filter>
+    </ClCompile>
+    <ClCompile Include="PopUpScreen.cpp">
+      <Filter>UserComponent\PopUpScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="cIntro.cpp">
+      <Filter>Scene\cIntroScene</Filter>
+    </ClCompile>
+    <ClCompile Include="cSoundManager.cpp">
+      <Filter>Manager\cSoundManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cMiniMap.cpp">
+      <Filter>UserComponent\Map\Minimap\cMiniMap</Filter>
+    </ClCompile>
+    <ClCompile Include="cMiniMapAdmin.cpp">
+      <Filter>UserComponent\Map\Minimap\cMiniMapAdmin</Filter>
+    </ClCompile>
+    <ClCompile Include="cMonsterComponent.cpp">
+      <Filter>UserComponent\Monster\cMonsterComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="cBee.cpp">
+      <Filter>UserComponent\Monster\cBee</Filter>
+    </ClCompile>
+    <ClCompile Include="cBear.cpp">
+      <Filter>UserComponent\Monster\cBear</Filter>
+    </ClCompile>
+    <ClCompile Include="cLeaf.cpp">
+      <Filter>UserComponent\Monster\cLeaf</Filter>
+    </ClCompile>
+    <ClCompile Include="cSlime.cpp">
+      <Filter>UserComponent\Monster\cSlime</Filter>
+    </ClCompile>
+    <ClCompile Include="cMonsterBullet.cpp">
+      <Filter>UserComponent\Monster\cMonsterBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="cStageChange.cpp">
+      <Filter>UserComponent\cStageChange</Filter>
+    </ClCompile>
+    <ClCompile Include="cMonsterDeath.cpp">
+      <Filter>UserComponent\Monster\cMonsterDeath</Filter>
+    </ClCompile>
+    <ClCompile Include="cLoseScene.cpp">
+      <Filter>Scene\cLoseCene</Filter>
+    </ClCompile>
+    <ClCompile Include="cDog.cpp">
+      <Filter>UserComponent\Monster\cDog</Filter>
+    </ClCompile>
+    <ClCompile Include="cItem.cpp">
+      <Filter>UserComponent\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="cGhost.cpp">
+      <Filter>UserComponent\Monster\cGhost</Filter>
+    </ClCompile>
+    <ClCompile Include="cFinalboss.cpp">
+      <Filter>UserComponent\Monster\cFinalboss</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="cMainGame.h">
+      <Filter>cMainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cSceneManager.h">
+      <Filter>Manager\cSceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene.h">
+      <Filter>Scene\cScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cIngame.h">
+      <Filter>Scene\cIngame</Filter>
+    </ClInclude>
+    <ClInclude Include="cGameObject.h">
+      <Filter>Core\cGameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="cComponent.h">
+      <Filter>Core\cComonent</Filter>
+    </ClInclude>
+    <ClInclude Include="cTransform.h">
+      <Filter>Core\cTransform</Filter>
+    </ClInclude>
+    <ClInclude Include="cSpriteRenderer.h">
+      <Filter>Core\cSprteRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="cTextureManager.h">
+      <Filter>Manager\cTextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cAnimater.h">
+      <Filter>Core\cAnimater</Filter>
+    </ClInclude>
+    <ClInclude Include="cObjectManager.h">
+      <Filter>Manager\cObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerComponent.h">
+      <Filter>UserComponent\cPlayer\cPlayerComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerHead.h">
+      <Filter>UserComponent\cPlayer\cPlayerHead</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerBody.h">
+      <Filter>UserComponent\cPlayer\cPlayerBody</Filter>
+    </ClInclude>
+    <ClInclude Include="cInputManager.h">
+      <Filter>Manager\cInputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cCollider2D.h">
+      <Filter>Core\cCollider2D</Filter>
+    </ClInclude>
+    <ClInclude Include="cCameraManager.h">
+      <Filter>Manager\cCameraManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>UserComponent\TestObstacle</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerShadow.h">
+      <Filter>UserComponent\cPlayer\cPlayerShadow</Filter>
+    </ClInclude>
+    <ClInclude Include="cMainMenu.h">
+      <Filter>Scene\cMainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="cRigidBody.h">
+      <Filter>Core\cRigidBody</Filter>
+    </ClInclude>
+    <ClInclude Include="cBulletBase.h">
+      <Filter>UserComponent\cPlayer\cPlayerBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="cExplosions.h">
+      <Filter>UserComponent\cExplosions</Filter>
+    </ClInclude>
+    <ClInclude Include="cCollisionManager.h">
+      <Filter>Manager\cCollisionManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Core\cButton</Filter>
+    </ClInclude>
+    <ClInclude Include="cMapManager.h">
+      <Filter>Manager\cMapManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cMap.h">
+      <Filter>UserComponent\Map\cMap</Filter>
+    </ClInclude>
+    <ClInclude Include="cTile.h">
+      <Filter>UserComponent\Map\cTile</Filter>
+    </ClInclude>
+    <ClInclude Include="cDoor.h">
+      <Filter>UserComponent\Door</Filter>
+    </ClInclude>
+    <ClInclude Include="cHpComponent.h">
+      <Filter>UserComponent\UI\cHpComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="cHpUI.h">
+      <Filter>UserComponent\UI\cHpUI</Filter>
+    </ClInclude>
+    <ClInclude Include="PopUpScreen.h">
+      <Filter>UserComponent\PopUpScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="cIntro.h">
+      <Filter>Scene\cIntroScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cSoundManager.h">
+      <Filter>Manager\cSoundManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cMiniMap.h">
+      <Filter>UserComponent\Map\Minimap\cMiniMap</Filter>
+    </ClInclude>
+    <ClInclude Include="cMiniMapAdmin.h">
+      <Filter>UserComponent\Map\Minimap\cMiniMapAdmin</Filter>
+    </ClInclude>
+    <ClInclude Include="cMonsterComponent.h">
+      <Filter>UserComponent\Monster\cMonsterComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="cBee.h">
+      <Filter>UserComponent\Monster\cBee</Filter>
+    </ClInclude>
+    <ClInclude Include="cBear.h">
+      <Filter>UserComponent\Monster\cBear</Filter>
+    </ClInclude>
+    <ClInclude Include="cLeaf.h">
+      <Filter>UserComponent\Monster\cLeaf</Filter>
+    </ClInclude>
+    <ClInclude Include="cSlime.h">
+      <Filter>UserComponent\Monster\cSlime</Filter>
+    </ClInclude>
+    <ClInclude Include="cMonsterBullet.h">
+      <Filter>UserComponent\Monster\cMonsterBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="cStageChange.h">
+      <Filter>UserComponent\cStageChange</Filter>
+    </ClInclude>
+    <ClInclude Include="cMonsterDeath.h">
+      <Filter>UserComponent\Monster\cMonsterDeath</Filter>
+    </ClInclude>
+    <ClInclude Include="cLoseScene.h">
+      <Filter>Scene\cLoseCene</Filter>
+    </ClInclude>
+    <ClInclude Include="cDog.h">
+      <Filter>UserComponent\Monster\cDog</Filter>
+    </ClInclude>
+    <ClInclude Include="cItem.h">
+      <Filter>UserComponent\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="cGhost.h">
+      <Filter>UserComponent\Monster\cGhost</Filter>
+    </ClInclude>
+    <ClInclude Include="cFinalboss.h">
+      <Filter>UserComponent\Monster\cFinalboss</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="TileMapGame.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
